@@ -109,9 +109,9 @@ async def bot_start(event):
                         \n\nPowered by [UPSC](https://t.me/ias_factory)"
         buttons = [
             (
-                Button.url("Chnnal", "https://t.me/ias_factory"),
+                Button.url("MY Channel", "https://t.me/ias_factory"),
                 Button.url(
-                    "Group",
+                    " MY Group",
                     "https://t.me/upscmotivationdiscussion",
                 ),
             )
